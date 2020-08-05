@@ -1,7 +1,7 @@
 {
   "name": "cdn",
-  "version": "0.0.2",
-  "description": "Enjoysheepskin CDN",
+  "version": "0.0.1",
+  "description": "enjoysheepskin cdn",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
@@ -11,10 +11,10 @@
     "url": "git+https://github.com/Enjoysheepskin/cdn.git"
   },
   "keywords": [],
-  "author": "enjoysheepskin <web@enjoysheepskin.com> (https://enjoysheepskin.com/)",
+  "author": "enjoysheepskin <web@enjoysheepskin.com> (http://enjoysheepskin.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Enjoysheepskin/cdn/issues"
+    "url": "https://github.com/Enjoysheepskin/issues"
   },
   "homepage": "https://github.com/Enjoysheepskin/cdn#readme"
 }
