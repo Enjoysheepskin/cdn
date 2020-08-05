@@ -1,0 +1,37 @@
+.app {
+	padding: 20px;
+	background: #f5f5f5;
+}
+
+.eb-admin-header {
+	color: #757575;
+}
+
+.eb-admin-checkboxes-wrapper {
+	margin: 30px 0px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.eb-admin-checkbox {
+	margin: 10px;
+	font-size: 1em;
+	color: #4b4b4b;
+	flex: 0 0 260px;
+	border-radius: 3px;
+	border: 1px solid rgba(0, 0, 0, 0.05);
+	box-shadow: 0px 6px 20px 0px rgba(194, 204, 222, 0.3);
+}
+
+.eb-admin-checkbox-label {
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.eb-admin-checkbox-label > div {
+	margin-left: 20px;
+}
