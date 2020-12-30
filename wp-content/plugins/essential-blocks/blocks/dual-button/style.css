@@ -2,5 +2,40 @@
 
 .eb-unit-control-btn-group{margin:0px 0px -20px 0px;text-align:right;display:block}.eb-unit-control-btn{color:black;background:transparent !important;outline:none !important;box-shadow:none !important;border:none !important;text-shadow:none !important}.eb-unit-active{color:#0084bc !important;font-weight:bold}
 
+.eb-color-base div {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.eb-color-base .components-base-control__label {
+	flex: 10;
+	margin-right: 0px !important; /* There was no other way */
+}
+
+.eb-color-base .components-dropdown {
+	flex: 1;
+}
+
+.eb-color-ball {
+	background-image: linear-gradient(45deg, #ddd 25%, transparent 0),
+		linear-gradient(-45deg, #ddd 25%, transparent 0),
+		linear-gradient(45deg, transparent 75%, #ddd 0),
+		linear-gradient(-45deg, transparent 75%, #ddd 0);
+	background-size: 10px 10px;
+	background-position: 0 0, 0 5px, 5px -5px, -5px 0;
+	border-radius: 50%;
+}
+
+.eb-color-undo {
+	flex: 1;
+	color: gray;
+}
+
+.eb-color-undo :focus,
+.eb-color-undo :hover {
+	box-shadow: none;
+}
+
 .eb-dual-button-wrapper{display:flex;flex-direction:row;align-items:center;justify-content:center;position:relative}.eb-dual-button__midldeInner{display:flex;justify-content:center;align-items:center;position:absolute;left:50%;top:50%;transform:translate(-50%, -50%);border-radius:50%}.eb-dual-button{transition:all 0.3s ease-in-out}.eb-dual-button-one,.eb-dual-button-two{text-decoration:none}.eb-dual-button-link,.eb-dual-button-link-two{line-height:inherit}
 

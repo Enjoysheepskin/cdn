@@ -21,7 +21,7 @@ The wishlist is one of the most powerful and popular tools in an ecommerce shop.
 
 This means that you’ll be able to loyalise customers, push them to buy and attract new customers any time a wishlist is shared. Not bad for one plugin only, don’t you think?
 
-Our YITH WooCommerce Wishlist has more than **700,000 active installations** and that’s why it’s **the most popular wishlist plugin ever.**
+Our YITH WooCommerce Wishlist has more than **800,000 active installations** and that’s why it’s **the most popular wishlist plugin ever.**
 
 To celebrate this record and say thanks to all the plugin users, we’ve decided to release a new 3.0 version that has improved the design tremendously  and added many new options.
 
@@ -151,21 +151,17 @@ Yes, of course you can. To avoid Wishlist page to show product prices, you can h
 
 ## Changelog
 
-### 3.0.11 - Released on 08 June 2020
+### 3.0.17 - Released on 11 December 2020
 
-* New: support for WooCommerce 4.2
+* New: support for WooCommerce 4.8
 * Update: plugin framework
-* Tweak: added WordPress among blocked bot user agents
-* Tweak: make sure to finalize session when possible
-* Tweak: added link to product in wishlist mobile template
-* Fix: Prevent error if default wishlist doesn't exists
-* Fix: correctly applied yith_wcwl_is_wishlist_responsive filter to yith_wcwl_is_mobile function
-* Fix: avoid to use cache that cannot be invalidated (stop caching queries results, use cache for user wishlists)
-* Fix: clear_caches method wasnt properly cleaning cache for guest users
-* Dev: added yith_wcwl_add_to_wishlist_icon_html filter
-* Dev: added yith_wcwl_add_to_wishlist_heading_icon_html filter
-* Dev: added yith_wcwl_add_to_wishlist_data trigger, to allow third party code change data submitted with ATW ajax call
-
+* Update: Spanish translation
+* Tweak: added rel="noopener" attribute to sharing links (thanks to onetimelord)
+* Tweak: avoid slugs that overflow column width
+* Tweak: changed set of default columns for wishlist table
+* Tweak: improved style for Edit Title form in wishlist page
+* Fix: prevent load_fragments ajax call when no fragment is found for current page (thanks to powernic)
+* Fix: correctly sanitize fragments options
 
 ## Support
 

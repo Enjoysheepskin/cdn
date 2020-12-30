@@ -1,4 +1,4 @@
-.image-avatar{height:100px;width:100%;background-size:cover;background-repeat:no-repeat;margin-bottom:8px;padding:2px}
+.image-avatar{height:100px;width:100%;background-size:cover;background-repeat:no-repeat;margin-bottom:8px;padding:2px}.image-avatar-delete{background-color:blue}.image-avatar-delete:hover{background-color:red}
 
 .eb-image-comparison-placeholder{display:flex;flex-direction:row;justify-content:center}.eb-image-comparison-upload{height:200px;width:200px;margin-right:10px;background:#e3e3e3 !important;display:inline !important}.eb-image-comparison-image{object-fit:cover;width:100%}.twentytwenty-handle:after{display:none !important}.twentytwenty-handle:before{display:none !important}.twentytwenty-handle .handle-before,.twentytwenty-handle .handle-after{position:absolute;left:50%;bottom:100%;content:"";height:500px}.twentytwenty-handle .handle-after{bottom:auto;top:100%}
 

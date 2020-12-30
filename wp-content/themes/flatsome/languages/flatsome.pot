@@ -2,14 +2,14 @@
 # This file is distributed under the http://themeforest.net/licenses.
 msgid ""
 msgstr ""
-"Project-Id-Version: Flatsome 3.11.3\n"
+"Project-Id-Version: Flatsome 3.13.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/flatsome\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2020-04-25T18:17:07+00:00\n"
+"POT-Creation-Date: 2020-12-15T19:29:20+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.4.0\n"
 "X-Domain: flatsome\n"
@@ -104,8 +104,163 @@ msgstr ""
 msgid "Next <span class=\"meta-nav\">&rarr;</span>"
 msgstr ""
 
-#: inc/admin/gutenberg/class-gutenberg.php:104
+#: inc/admin/advanced/functions/functions.facebook.php:138
+msgid "Connect Instagram Business accounts"
+msgstr ""
+
+#: inc/admin/advanced/functions/functions.facebook.php:145
+#: inc/admin/advanced/functions/functions.facebook.php:154
+msgid "Okay"
+msgstr ""
+
+#: inc/admin/advanced/functions/functions.facebook.php:150
+msgid "No associated Instagram Business account was found for your Facebook user."
+msgstr ""
+
+#: inc/admin/advanced/functions/functions.facebook.php:205
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/advanced/functions/functions.facebook.php:208
+msgid "Connect"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:91
+msgid "Flatsome menu item options"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:95
+msgid "Menu dropdown"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:98
+msgid "Design"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:100
+msgid "Default"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:101
+msgid "Default (custom size)"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:102
+msgid "Container width"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:103
+msgid "Full width"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:106
+msgid "Select dropdown design."
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:110
+#: inc/admin/backend/menu/class-menu.php:161
+msgid "Width"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:116
+msgid "Height (optional)"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:122
+msgid "UX Block"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:134
+msgid "Reveal"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:136
+msgid "On hover"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:137
+msgid "On click"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:143
+msgid "Menu icon"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:146
+msgid "Icon type"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:148
+msgid "Media library"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:149
+msgid "Custom content"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:165
+msgid "Height"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:168
+msgid "Icons default (empty) to 20x20."
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:173
+msgid "Markup"
+msgstr ""
+
+#: inc/admin/backend/menu/class-menu.php:176
+msgid "Add any HTML, SVG or shortcode here."
+msgstr ""
+
+#: inc/admin/gutenberg/class-gutenberg.php:109
 msgid "Edit with UX Builder"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:85
+msgid "Menu item behavior"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:86
+msgid "Click behavior for menu items with a submenu"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:91
+msgid "Open link"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:92
+msgid "Toggle submenu"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:99
+msgid "Submenu effect"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:104
+msgid "Accordion"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:105
+msgid "Slide"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:119
+msgid "Submenu levels"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:124
+msgid "1 level"
+msgstr ""
+
+#: inc/admin/options/header/options-header-mobile.php:125
+msgid "2 levels"
+msgstr ""
+
+#: inc/admin/options/notifications/options-notifications.php:98
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:39
+msgid "This site uses cookies to offer you a better browsing experience. By browsing this website, you agree to our use of cookies."
 msgstr ""
 
 #: inc/admin/options/portfolio/options-portfolio.php:76
@@ -120,6 +275,54 @@ msgstr ""
 msgid "Show shipping estimate destination"
 msgstr ""
 
+#: inc/admin/options/shop/options-shop-product-page.php:40
+#: inc/woocommerce/structure-wc-category-page.php:141
+#: inc/woocommerce/structure-wc-product-page-fields.php:22
+msgid "Custom product layout"
+msgstr ""
+
+#: inc/classes/class-flatsome-envato-admin.php:174
+msgid "You must confirm the Envato License Terms."
+msgstr ""
+
+#. translators: 1: Create token URL
+#: inc/classes/class-flatsome-envato-admin.php:180
+msgid "The provided value seems to be a purchase code. An Envato token is required to register. <a href=\"%s\" target=\"_blank\">Generate a token here</a>."
+msgstr ""
+
+#: inc/classes/class-flatsome-envato-api.php:106
+msgid "An API token is required."
+msgstr ""
+
+#: inc/classes/class-flatsome-envato-api.php:131
+#: inc/classes/class-flatsome-envato-api.php:135
+msgid "An unknown API error occurred."
+msgstr ""
+
+#. translators: 1: Create token URL
+#: inc/classes/class-flatsome-envato-api.php:158
+msgid "Missing or invalid token. Double-check your token or try to <a href=\"%s\" target=\"_blank\">create a new one</a>."
+msgstr ""
+
+#. translators: 1: Permissions list.
+#: inc/classes/class-flatsome-envato-api.php:178
+msgid "The token is missing the following permissions: %s"
+msgstr ""
+
+#: inc/classes/class-flatsome-envato-api.php:219
+msgid "The token is valid, but the Envato user associated with it doesn't seem to have purchased Flatsome. Double-check that you were logged in with the same user that bought Flatsome when you created the token."
+msgstr ""
+
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:50
+msgctxt "cookie notice"
+msgid "More info"
+msgstr ""
+
+#: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:60
+msgctxt "cookie notice"
+msgid "Accept"
+msgstr ""
+
 #: inc/extensions/flatsome-infinite-scroll/templates/button.php:2
 msgid "View more"
 msgstr ""
@@ -132,53 +335,58 @@ msgstr ""
 msgid "Quick View"
 msgstr ""
 
-#: inc/functions/function-custom-css.php:622
+#: inc/functions/function-custom-css.php:655
 #: inc/woocommerce/structure-wc-product-box.php:29
 msgid "New"
 msgstr ""
 
-#: inc/functions/function-custom-css.php:623
+#: inc/functions/function-custom-css.php:656
 msgid "Hot"
 msgstr ""
 
-#: inc/functions/function-custom-css.php:624
+#: inc/functions/function-custom-css.php:657
 msgid "Sale"
 msgstr ""
 
-#: inc/functions/function-custom-css.php:625
+#: inc/functions/function-custom-css.php:658
 msgid "Popular"
 msgstr ""
 
-#: inc/functions/function-setup.php:53
+#: inc/functions/function-setup.php:60
+#: inc/functions/function-setup.php:182
 msgid "Main Menu"
 msgstr ""
 
-#: inc/functions/function-setup.php:54
+#: inc/functions/function-setup.php:61
 msgid "Main Menu - Mobile"
 msgstr ""
 
-#: inc/functions/function-setup.php:55
+#: inc/functions/function-setup.php:62
 msgid "Footer Menu"
 msgstr ""
 
-#: inc/functions/function-setup.php:56
+#: inc/functions/function-setup.php:63
 msgid "Top Bar Menu"
 msgstr ""
 
-#: inc/functions/function-setup.php:57
+#: inc/functions/function-setup.php:64
 msgid "My Account Menu"
 msgstr ""
 
-#: inc/functions/function-setup.php:77
+#: inc/functions/function-setup.php:84
 msgid "Sidebar"
 msgstr ""
 
-#: inc/functions/function-setup.php:87
+#: inc/functions/function-setup.php:94
 msgid "Footer 1"
 msgstr ""
 
-#: inc/functions/function-setup.php:97
+#: inc/functions/function-setup.php:104
 msgid "Footer 2"
+msgstr ""
+
+#: inc/functions/function-update.php:254
+msgid "<a href=\"%s\">Please enter your Envato token</a> to activate Flatsome and get one-click updates."
 msgstr ""
 
 #: inc/integrations/wc-yith-wishlist/yith-wishlist.php:61
@@ -187,13 +395,13 @@ msgid "Wishlist"
 msgstr ""
 
 #. translators: %s: comment count
-#: inc/shortcodes/blog_posts.php:276
+#: inc/shortcodes/blog_posts.php:281
 msgid "%s Comment"
 msgid_plural "%s Comments"
 msgstr[0] ""
 msgstr[1] ""
 
-#: inc/shortcodes/portfolio.php:146
+#: inc/shortcodes/portfolio.php:143
 #: woocommerce/product-searchform.php:38
 msgid "All"
 msgstr ""
@@ -397,7 +605,7 @@ msgid "Complete the look"
 msgstr ""
 
 #: inc/woocommerce/structure-wc-category-page.php:97
-#: inc/woocommerce/structure-wc-product-page-fields.php:93
+#: inc/woocommerce/structure-wc-product-page-fields.php:31
 msgid "Top Content"
 msgstr ""
 
@@ -406,12 +614,16 @@ msgid "Enter a value for this field. Shortcodes are allowed. This will be displa
 msgstr ""
 
 #: inc/woocommerce/structure-wc-category-page.php:119
-#: inc/woocommerce/structure-wc-product-page-fields.php:103
+#: inc/woocommerce/structure-wc-product-page-fields.php:38
 msgid "Bottom Content"
 msgstr ""
 
 #: inc/woocommerce/structure-wc-category-page.php:124
 msgid "Enter a value for this field. Shortcodes are allowed. This will be displayed at bottom of the category."
+msgstr ""
+
+#: inc/woocommerce/structure-wc-category-page.php:152
+msgid "Choose a custom product block layout for this category."
 msgstr ""
 
 #: inc/woocommerce/structure-wc-checkout.php:166
@@ -434,44 +646,52 @@ msgstr ""
 msgid "Pages found"
 msgstr ""
 
-#: inc/woocommerce/structure-wc-product-page-fields.php:11
-msgid "Extra"
+#: inc/woocommerce/structure-wc-product-page-fields.php:17
+msgid "Product layout"
 msgstr ""
 
-#: inc/woocommerce/structure-wc-product-page-fields.php:18
-msgid "Enable a custom bubble on this product."
+#: inc/woocommerce/structure-wc-product-page-fields.php:24
+msgid "Choose a custom product block layout for this product."
 msgstr ""
 
-#: inc/woocommerce/structure-wc-product-page-fields.php:49
-msgid "Custom Tab Content"
-msgstr ""
-
-#: inc/woocommerce/structure-wc-product-page-fields.php:52
-msgid "Enter content for custom product tab here. Shortcodes are allowed"
-msgstr ""
-
-#: inc/woocommerce/structure-wc-product-page-fields.php:61
-msgid "Product Video"
-msgstr ""
-
-#: inc/woocommerce/structure-wc-product-page-fields.php:63
-msgid "Enter a Youtube or Vimeo Url of the product video here. We recommend uploading your video to Youtube."
-msgstr ""
-
-#: inc/woocommerce/structure-wc-product-page-fields.php:82
-msgid "Select where you want to display product video."
-msgstr ""
-
-#: inc/woocommerce/structure-wc-product-page-fields.php:96
+#: inc/woocommerce/structure-wc-product-page-fields.php:33
 msgid "Enter content that will show after the header and before the product. Shortcodes are allowed"
 msgstr ""
 
-#: inc/woocommerce/structure-wc-product-page-fields.php:106
+#: inc/woocommerce/structure-wc-product-page-fields.php:40
 msgid "Enter content that will show after the product info. Shortcodes are allowed"
 msgstr ""
 
+#: inc/woocommerce/structure-wc-product-page-fields.php:46
+msgid "Extra"
+msgstr ""
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:52
+msgid "Enable a custom bubble on this product."
+msgstr ""
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:82
+msgid "Custom Tab Content"
+msgstr ""
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:84
+msgid "Enter content for custom product tab here. Shortcodes are allowed"
+msgstr ""
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:93
+msgid "Product Video"
+msgstr ""
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:95
+msgid "Enter a Youtube or Vimeo Url of the product video here. We recommend uploading your video to Youtube."
+msgstr ""
+
+#: inc/woocommerce/structure-wc-product-page-fields.php:110
+msgid "Select where you want to display product video."
+msgstr ""
+
 #: inc/woocommerce/structure-wc-product-page.php:73
-#: inc/woocommerce/structure-wc-product-page.php:137
+#: inc/woocommerce/structure-wc-product-page.php:139
 msgid "Video"
 msgstr ""
 
@@ -548,7 +768,30 @@ msgid "Page - Full Width - Transparent Header"
 msgstr ""
 
 #: searchform.php:17
+#: woocommerce/product-searchform.php:64
 msgid "Submit"
+msgstr ""
+
+#. translators: 1. Template
+#: template-parts/admin/envato/directory-warning.php:5
+msgid "An unusual theme directory name was detected: <em>%s</em>. The Flatsome parent theme should be installed in a directory named <em>flatsome</em> to ensure updates are handled correctly."
+msgstr ""
+
+#: template-parts/admin/envato/register-form.php:9
+msgid "Your token <strong>is valid</strong>. Thank you! Enjoy Flatsome and one-click updates."
+msgstr ""
+
+#: template-parts/admin/envato/register-form.php:60
+msgid "Are you sure you want to unregister Flatsome?"
+msgstr ""
+
+#. translators: 1: Version.
+#: template-parts/admin/envato/version-info-iframe.php:7
+msgid "Version %s"
+msgstr ""
+
+#: template-parts/admin/envato/version-info-iframe.php:10
+msgid "Read change log here"
 msgstr ""
 
 #: template-parts/header/partials/element-contact-mobile.php:29
